@@ -1,6 +1,6 @@
 -- Configuration
 local Settings = {
-    SmoothingFactor = 0.1384,
+    SmoothingFactor = 0.449,
     MaxLockDistance = 1000,
     PredictionMultiplier = 10.8,
     PredictionOffset = Vector3.new(0, 0.26, 0) --// (X, Y, Z)

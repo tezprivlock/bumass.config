@@ -9,7 +9,7 @@ local Settings = {
 -- Controls
 local Controls = {
     ControllerKey = Enum.KeyCode.ButtonY,
-    KeyboardKey = Enum.KeyCode.C,
+    KeyboardKey = Enum.KeyCode.Q,
 }
 
 --Services
